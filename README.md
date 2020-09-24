@@ -27,4 +27,5 @@ It is used for:
 5. Python can be treated in a procedural way, an object-oriented way or a functional way.
 
 <b>Download</b>
+
 If you find that you do not have python installed on your computer, then you can download it for free from the following website: https://www.python.org/
