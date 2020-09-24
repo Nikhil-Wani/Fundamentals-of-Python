@@ -4,7 +4,7 @@ from flask import Flask,redirect,url_for,request,render_template
 button=Flask(__name__)
 @button.route("/")
 def main():
-    return render_template('button.html')
+    return render_template('flask.html')
 
 @button.route('/success/<name>')
 def success(name):
