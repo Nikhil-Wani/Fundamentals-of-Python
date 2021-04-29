@@ -1,4 +1,4 @@
-# Python-Programmig
+# Python
 
 <b>What is Python?</b>
 
