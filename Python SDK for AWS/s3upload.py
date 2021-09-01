@@ -1,10 +1,10 @@
 import boto3
 from botocore.client import Config
 
-ACCESS_KEY_ID = 'AKIARBJW34Z4F5ILQN6S'
-ACCESS_SECRET_KEY = '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'
-BUCKET_NAME = 'cyient-avangrid'
-FILE_NAME = 'D:\Energy Management Dashboard Project\VirtualizedApplicationsUserGuideAV.pdf'
+ACCESS_KEY_ID = ''
+ACCESS_SECRET_KEY = ''
+BUCKET_NAME = ''
+FILE_NAME = ''
 
 
 data = open(FILE_NAME, 'rb')
