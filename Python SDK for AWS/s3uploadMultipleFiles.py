@@ -1,11 +1,12 @@
+# Can upload all the files in a Folder
 import os
 import boto3
 from botocore.client import Config
 
-ACCESS_KEY_ID = 'AKIARBJW34Z4F5ILQN6S'
-ACCESS_SECRET_KEY = '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'
-BUCKET_NAME = 'cyient-avangrid'
-local_file = r'D:\Energy Management Dashboard Project\Docs\xls'
+ACCESS_KEY_ID = ''
+ACCESS_SECRET_KEY = ''
+BUCKET_NAME = ''
+local_file = 'Folder Location'
 
 # S3 Connect
 s3 = boto3.resource(
